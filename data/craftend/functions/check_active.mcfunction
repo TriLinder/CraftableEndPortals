@@ -1,0 +1,3 @@
+scoreboard objectives add activeDatapacks dummy
+scoreboard players set tbm_craftend activeDatapacks 1
+scoreboard players set tbm_craftend_ver activeDatapacks 1
